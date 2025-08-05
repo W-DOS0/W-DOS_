@@ -1,5 +1,4 @@
 <h1 align="center">
-  <span>Hi there 👋 I'm&nbsp;</span>
   <img src="https://wdos.dev/media/WDOS.png" alt="WDOS Logo" height="32" style="vertical-align: middle;" />
 </h1>
 
