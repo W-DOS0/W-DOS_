@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 Navigation
+### 🚀 Website Navigation
 
 | 🔗 [About](https://wdos.dev/#about) | 🧠 [Skills](https://wdos.dev/#skills) | 🛠️ [Projects](https://wdos.dev/#projects) | 📜 [Certificates](https://wdos.dev/#certificates) | 📬 [Contact](https://wdos.dev/#contact) |
 |:--|:--|:--|:--|:--|
