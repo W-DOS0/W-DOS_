@@ -10,10 +10,16 @@
 
 ---
 
-### 🚀 Website Navigation
+<h3 align="center">🚀 Portfolio Navigation</h3>
 
-| 🔗 [About](https://wdos.dev/#about) | 🧠 [Skills](https://wdos.dev/#skills) | 🛠️ [Projects](https://wdos.dev/#projects) | 📜 [Certificates](https://wdos.dev/#certificates) | 📬 [Contact](https://wdos.dev/#contact) |
-|:--|:--|:--|:--|:--|
+<p align="center">
+  <a href="https://wdos.dev/#about">🔗 About</a> •
+  <a href="https://wdos.dev/#skills">🧠 Skills</a> •
+  <a href="https://wdos.dev/#projects">🛠️ Projects</a> •
+  <a href="https://wdos.dev/#certificates">📜 Certificates</a> •
+  <a href="https://wdos.dev/#contact">📬 Contact</a>
+</p>
+
 
 ---
 
