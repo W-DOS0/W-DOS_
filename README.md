@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://i.ibb.co/8DYJFQTh/WDOS-Banner.png" alt="Banner" />
+  <img src="https://wdos.dev/media/WDOS.png" alt="Logo" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm [W]DOS_</h1>
 
-<p align="center">
-  <b>Full-Stack Developer | Designed to Think Ahead</b>
-</p>
+<p align="center"><b>Full-Stack Developer | Designed to Think Ahead</b></p>
 
 ---
 
@@ -20,31 +18,30 @@
   <a href="https://wdos.dev/#contact">📬 Contact</a>
 </p>
 
-
 ---
 
-### 📈 GitHub Stats
+<h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
-   <img src="https://statify-hub.vercel.app/api/dynamic-card?cardId=eyJ1c2VybmFtZSI6IlctRE9TMCIsInByaW1hcnlDb2xvciI6IiMwMDAwMDBmZiIsInNlY29uZGFyeUNvbG9yIjoiIzcwNzBkY2ZmIiwidGV4dENvbG9yIjoiI2ZmZmZmZiIsInRlbXBsYXRlIjoyLCJzdGF0cyI6WyJwdWJsaWNfcmVwb3MiLCJoaXJlYWJsZSIsImxvbmdlc3RTdHJlYWsiLCJ0b3RhbENvbnRyaWJ1dGlvbnMiXSwidGltZXN0YW1wIjoxNzU0Mzk2Njk3MDAzfQ"
+  <img src="https://statify-hub.vercel.app/api/dynamic-card?cardId=eyJ1c2VybmFtZSI6IlctRE9TMCIsInByaW1hcnlDb2xvciI6IiMwMDAwMDBmZiIsInNlY29uZGFyeUNvbG9yIjoiIzcwNzBkY2ZmIiwidGV4dENvbG9yIjoiI2ZmZmZmZiIsInRlbXBsYXRlIjoyLCJzdGF0cyI6WyJwdWJsaWNfcmVwb3MiLCJoaXJlYWJsZSIsImxvbmdlc3RTdHJlYWsiLCJ0b3RhbENvbnRyaWJ1dGlvbnMiXSwidGltZXN0YW1wIjoxNzU0Mzk2Njk3MDAzfQ"
        width="400" />
 </p>
 
-
-<h3 align="center">🚀 Power your profile with sleek, dynamic GitHub stats</h3>
-
----
-
-If you want a **custom GitHub stats card** like the one above, visit:
-
-🔗 **[StatifyHub](https://statify-hub-6zaa.vercel.app)**  
-Create your own card with fully customizable layout, colors, and data.
-
-Want to contribute or explore the source code?  
-🛠️ **[StatifyHub GitHub Repository](https://github.com/W-DOS0/StatifyHub)**
-
+<p align="center"><i>Powered by <a href="https://statify-hub-6zaa.vercel.app">StatifyHub</a></i></p>
 
 ---
 
-### 🌐 Find Me Elsewhere  
-🌍 Website: https://wdos.dev <br/>
+<h3 align="center">⚙️ Create Your Own GitHub Card</h3>
+
+<p align="center">
+  🔧 <a href="https://statify-hub-6zaa.vercel.app">StatifyHub Builder</a> •  
+  🛠️ <a href="https://github.com/W-DOS0/StatifyHub">StatifyHub GitHub Repo</a>
+</p>
+
+---
+
+<h3 align="center">🌐 Find Me Elsewhere</h3>
+
+<p align="center">
+  🌍 <a href="https://wdos.dev">wdos.dev</a>
+</p>
