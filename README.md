@@ -251,6 +251,8 @@ dApps · DAOs · NFT Marketplaces (OpenSea, Rarible) · DeFi (Uniswap, Aave) · 
        style="max-width: 400px; width: 100%;" />
 </p>
 
+Power your profile with sleek, dynamic GitHub stats.
+
 If you want a custom GitHub stats card like the one above, visit:
 
 🔗 [StatifyHub](https://statify-hub-6zaa.vercel.app)
@@ -260,7 +262,6 @@ Want to contribute or check out the code?
 🛠️ Head over to the GitHub repo:
 [StatifyHub repo](https://github.com/W-DOS0/StatifyHub)
 
-Power your profile with sleek, dynamic GitHub stats.
 ---
 
 ### 🌐 Find Me Elsewhere  
