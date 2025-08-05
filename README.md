@@ -246,8 +246,21 @@ dApps · DAOs · NFT Marketplaces (OpenSea, Rarible) · DeFi (Uniswap, Aave) · 
 
 ### 📈 GitHub Stats
 
-<p align="center"> <img src="https://statify-hub-6zaa.vercel.app/api/dynamic-card?cardId=eyJ1c2VybmFtZSI6IlctRE9TMCIsInByaW1hcnlDb2xvciI6IiMwMDAwMDBmZiIsInNlY29uZGFyeUNvbG9yIjoiIzcwNzBkY2ZmIiwidGV4dENvbG9yIjoiI2ZmZmZmZiIsInRlbXBsYXRlIjoxLCJzdGF0cyI6WyJwdWJsaWNfcmVwb3MiLCJ0b3RhbFN0YXJzIiwidG90YWxDb250cmlidXRpb25zIiwibG9uZ2VzdFN0cmVhayJdLCJ0aW1lc3RhbXAiOjE3NTQzOTM4Mjk0ODd9" /> </p>
+<p align="center">
+  <img src="https://statify-hub-6zaa.vercel.app/api/dynamic-card?cardId=eyJ1c2VybmFtZSI6IlctRE9TMCIsInByaW1hcnlDb2xvciI6IiMwMDAwMDBmZiIsInNlY29uZGFyeUNvbG9yIjoiIzcwNzBkY2ZmIiwidGV4dENvbG9yIjoiI2ZmZmZmZiIsInRlbXBsYXRlIjoxLCJzdGF0cyI6WyJwdWJsaWNfcmVwb3MiLCJ0b3RhbFN0YXJzIiwidG90YWxDb250cmlidXRpb25zIiwibG9uZ2VzdFN0cmVhayJdLCJ0aW1lc3RhbXAiOjE3NTQzOTM4Mjk0ODd9"
+       style="max-width: 400px; width: 100%;" />
+</p>
 
+If you want a custom GitHub stats card like the one above, visit:
+
+🔗 [StatifyHub](https://statify-hub-6zaa.vercel.app)
+Create your own dynamic GitHub card with fully customizable colors and layout.
+
+Want to contribute or check out the code?
+🛠️ Head over to the GitHub repo:
+[StatifyHub repo](https://github.com/W-DOS0/StatifyHub)
+
+Power your profile with sleek, dynamic GitHub stats.
 ---
 
 ### 🌐 Find Me Elsewhere  
