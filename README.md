@@ -6,8 +6,6 @@
 
 ---
 
-<h3 align="center">🚀 Website Navigation</h3>
-
 <p align="center">
   <a href="https://wdos.dev/#about">🔗 About</a> •
   <a href="https://wdos.dev/#skills">🧠 Skills</a> •
