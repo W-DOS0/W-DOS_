@@ -1,7 +1,8 @@
-<h1 align="center">
+<h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px;">
   Hi there 👋 I'm
-  <img src="https://wdos.dev/media/WDOS.png" alt="WDOS Logo" height="38" style="vertical-align: middle; position: relative; top: 4px;" />
+  <img src="https://wdos.dev/media/WDOS.png" alt="WDOS Logo" height="38" style="display: inline-block;" />
 </h1>
+
 
 <p align="center"><b>Full-Stack Developer | Designed to Think Ahead</b></p>
 
