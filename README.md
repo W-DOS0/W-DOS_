@@ -1,6 +1,6 @@
-<h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px;">
+<h1 align="center">
   Hi there 👋 I'm
-  <img src="https://wdos.dev/media/WDOS.png" alt="WDOS Logo" height="38" style="display: inline-block;" />
+  <img src="https://wdos.dev/media/WDOS.png" alt="WDOS Logo" height="38" align="middle" />
 </h1>
 
 
