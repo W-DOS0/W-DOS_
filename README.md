@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://wdos.dev/media/WDOS.png" alt="WDOS Logo" height="32" style="vertical-align: middle;" />
+  <img src="https://wdos.dev/media/WDOS.png" alt="WDOS Logo" height="40" />
 </h1>
 
 <p align="center"><b>Full-Stack Developer | Designed to Think Ahead</b></p>
