@@ -247,9 +247,10 @@ dApps · DAOs · NFT Marketplaces (OpenSea, Rarible) · DeFi (Uniswap, Aave) · 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://statify-hub-6zaa.vercel.app/api/dynamic-card?cardId=eyJ1c2VybmFtZSI6IlctRE9TMCIsInByaW1hcnlDb2xvciI6IiMwMDAwMDBmZiIsInNlY29uZGFyeUNvbG9yIjoiIzcwNzBkY2ZmIiwidGV4dENvbG9yIjoiI2ZmZmZmZiIsInRlbXBsYXRlIjoyLCJzdGF0cyI6WyJwdWJsaWNfcmVwb3MiLCJ0b3RhbFN0YXJzIiwibG9uZ2VzdFN0cmVhayIsInRvdGFsQ29udHJpYnV0aW9ucyJdLCJ0aW1lc3RhbXAiOjE3NTQzOTUwMzU4OTB9"
+   <img src="https://statify-hub.vercel.app/api/dynamic-card?cardId=eyJ1c2VybmFtZSI6IlctRE9TMCIsInByaW1hcnlDb2xvciI6IiMwMDAwMDBmZiIsInNlY29uZGFyeUNvbG9yIjoiIzcwNzBkY2ZmIiwidGV4dENvbG9yIjoiI2ZmZmZmZiIsInRlbXBsYXRlIjoyLCJzdGF0cyI6WyJwdWJsaWNfcmVwb3MiLCJoaXJlYWJsZSIsImxvbmdlc3RTdHJlYWsiLCJ0b3RhbENvbnRyaWJ1dGlvbnMiXSwidGltZXN0YW1wIjoxNzU0Mzk2Njk3MDAzfQ"
        width="400" />
 </p>
+
 
 <h3 align="center">🚀 Power your profile with sleek, dynamic GitHub stats</h3>
 
