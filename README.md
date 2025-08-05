@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Hi there 👋 I'm [W]DOS_</h1>
-
 <p align="center"><b>Full-Stack Developer | Designed to Think Ahead</b></p>
 
 ---
