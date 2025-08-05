@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋 I'm <img src="https://wdos.dev/media/WDOS.png" alt="WDOS Logo" height="32" style="vertical-align: middle;" /></h1>
+<h1 align="center">Hi there 👋 I'm <img src="https://wdos.dev/media/WDOS.png" alt="WDOS Logo" height="38" style="vertical-align: middle;" /></h1>
 <p align="center"><b>Full-Stack Developer | Designed to Think Ahead</b></p>
 
 ---
 
-<h3 align="center">🚀 Portfolio Navigation</h3>
+<h3 align="center">🚀 Website Navigation</h3>
 
 <p align="center">
   <a href="https://wdos.dev/#about">🔗 About</a> •
