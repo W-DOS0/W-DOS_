@@ -252,7 +252,7 @@ dApps · DAOs · NFT Marketplaces (OpenSea, Rarible) · DeFi (Uniswap, Aave) · 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=W-DOS0&theme=radical" />
   <br/>
 </p>
-<p align="center"> <img src="https://statify-hub-6zaa.vercel.app/api/dynamic-card?cardId=eyJ1c2VybmFtZSI6IlctRE9TMCIsInByaW1hcnlDb2xvciI6IiMwMDAwMDBmZiIsInNlY29uZGFyeUNvbG9yIjoiIzcwNzBkY2ZmIiwidGV4dENvbG9yIjoiI2ZmZmZmZiIsInRlbXBsYXRlIjoxLCJzdGF0cyI6WyJwdWJsaWNfcmVwb3MiLCJmb2xsb3dlcnMiLCJmb2xsb3dpbmciLCJwdWJsaWNfZ2lzdHMiXSwidGltZXN0YW1wIjoxNzU0MzkzNzMzNjkzfQ" /> </p>
+<p align="center"> <img src="https://statify-hub-6zaa.vercel.app/api/dynamic-card?cardId=eyJ1c2VybmFtZSI6IlctRE9TMCIsInByaW1hcnlDb2xvciI6IiMwMDAwMDBmZiIsInNlY29uZGFyeUNvbG9yIjoiIzcwNzBkY2ZmIiwidGV4dENvbG9yIjoiI2ZmZmZmZiIsInRlbXBsYXRlIjoxLCJzdGF0cyI6WyJwdWJsaWNfcmVwb3MiLCJ0b3RhbFN0YXJzIiwidG90YWxDb250cmlidXRpb25zIiwibG9uZ2VzdFN0cmVhayJdLCJ0aW1lc3RhbXAiOjE3NTQzOTM4Mjk0ODd9" /> </p>
 
 
 ---
