@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://wdos.dev/media/WDOS.png" alt="Logo" />
-</p>
-
-<h1 align="center">Hi there 👋 I'm [W]DOS_</h1>
+<h1 align="center">Hi there 👋 I'm <img src="https://wdos.dev/media/WDOS.png" alt="WDOS Logo" height="32" style="vertical-align: middle;" /></h1>
 <p align="center"><b>Full-Stack Developer | Designed to Think Ahead</b></p>
 
 ---
