@@ -250,6 +250,8 @@ dApps · DAOs · NFT Marketplaces (OpenSea, Rarible) · DeFi (Uniswap, Aave) · 
   <img src="https://github-readme-stats.vercel.app/api?username=W-DOS0&show_icons=true&theme=radical" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=W-DOS0&theme=radical" />
+  <br/>
+  <p align="center"> <img src="https://statify-hub-afiq.vercel.app/card?cardId=eyJ1c2VybmFtZSI6IlctRE9TMCIsInByaW1hcnlDb2xvciI6IiMwMDAwMDAiLCJzZWNvbmRhcnlDb2xvciI6IiMzMjI1MjUiLCJ0ZXh0Q29sb3IiOiIjZmZmZmZmIiwidGVtcGxhdGUiOjEsInN0YXRzIjpbInB1YmxpY19yZXBvcyIsInRvdGFsU3RhcnMiLCJsb25nZXN0U3RyZWFrIiwidG90YWxDb250cmlidXRpb25zIl0sInRpbWVzdGFtcCI6MTc1NDM5MTY1NjIxM30=" /> </p>
 </p>
 
 ---
