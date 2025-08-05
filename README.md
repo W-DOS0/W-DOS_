@@ -2,11 +2,10 @@
   <img src="https://wdos.dev/media/WDOS.png" alt="WDOS Logo" height="50" />
 </h1>  
 
+<p align="center"><b>Full-Stack Developer | Designed to Think Ahead</b></p>
 <p align="center">
   <a href="https://wdos.dev">wdos.dev</a>
 </p>
-
-<p align="center"><b>Full-Stack Developer | Designed to Think Ahead</b></p>
 
 ---
 
