@@ -1,7 +1,9 @@
 <h1 align="center">
   <img src="https://wdos.dev/media/WDOS.png" alt="WDOS Logo" height="50" />
 </h1>
-
+<p align="center">
+  <a href="https://wdos.dev">wdos.dev</a>
+</p>
 <p align="center"><b>Full-Stack Developer | Designed to Think Ahead</b></p>
 
 ---
@@ -30,10 +32,4 @@
 <p align="center">
   🔧 <a href="https://statify-hub-6zaa.vercel.app">StatifyHub Builder</a> •  
   🛠️ <a href="https://github.com/W-DOS0/StatifyHub">StatifyHub GitHub Repo</a>
-</p>
-
----
-
-<p align="center">
-  🌍 <a href="https://wdos.dev">wdos.dev</a>
 </p>
