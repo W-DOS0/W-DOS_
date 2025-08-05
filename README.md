@@ -70,6 +70,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-ff007f?style=flat&logo=framer&logoColor=white)
+![AJAX](https://img.shields.io/badge/-AJAX-ff007f?style=flat&logo=ajax&logoColor=white)
 
 ---
 
