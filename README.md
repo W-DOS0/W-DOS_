@@ -16,8 +16,6 @@
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
-
 <p align="center">
   <img src="https://statify-hub.vercel.app/api/dynamic-card?cardId=eyJ1c2VybmFtZSI6IlctRE9TMCIsInByaW1hcnlDb2xvciI6IiMwMDAwMDBmZiIsInNlY29uZGFyeUNvbG9yIjoiIzcwNzBkY2ZmIiwidGV4dENvbG9yIjoiI2ZmZmZmZiIsInRlbXBsYXRlIjoyLCJzdGF0cyI6WyJwdWJsaWNfcmVwb3MiLCJoaXJlYWJsZSIsImxvbmdlc3RTdHJlYWsiLCJ0b3RhbENvbnRyaWJ1dGlvbnMiXSwidGltZXN0YW1wIjoxNzU0Mzk2Njk3MDAzfQ"
        width="400" />
@@ -35,8 +33,6 @@
 </p>
 
 ---
-
-<h3 align="center">🌐 Find Me Elsewhere</h3>
 
 <p align="center">
   🌍 <a href="https://wdos.dev">wdos.dev</a>
