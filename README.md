@@ -3,7 +3,7 @@
 </h1>  
 
 <p align="center"><b>Full-Stack Developer | Designed to Think Ahead</b></p>
-<p align="center">
+<p align="center"> 
   <a href="https://wdos.dev">wdos.dev</a>
 </p>
 
